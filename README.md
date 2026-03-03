@@ -284,18 +284,6 @@ Student | Software Engineer
 ## 📖 Citation
 
 If you use this tool or pipeline in your research, please cite:
-
-```bibtex
-@misc{spikescope2025,
-  author       = {Ima511},
-  title        = {SpikeScope: AI-Powered SARS-CoV-2 Spike Protein Mutation Analyzer},
-  year         = {2025},
-  publisher    = {GitHub},
-  journal      = {GitHub repository},
-  howpublished = {\url{https://github.com/Ima511/SARS-Covid-19-Comparison}}
-}
-```
-
 Also cite Biopython:
 > Cock et al. (2009). Biopython: freely available Python tools for computational molecular biology and bioinformatics. *Bioinformatics*, 25(11), 1422–1423.
 
