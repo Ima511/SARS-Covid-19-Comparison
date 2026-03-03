@@ -276,7 +276,7 @@ requests     >= 2.28   # ESMFold API calls
 ## 👨‍🔬 Author
 
 **Ima511**  
-BSc Student | Computational Biology & Protein Bioinformatics  
+Student | Software Engineer 
 🔗 [GitHub Profile](https://github.com/Ima511)
 
 ---
